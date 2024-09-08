@@ -1,0 +1,56 @@
+{
+    "Name": "치헌",
+    "Money": 182490,
+    "HP": 33.00000000000007,
+    "Max_HP": 220,
+    "STR": 10,
+    "VIT": 1.3000000000000003,
+    "Critical": 0.1,
+    "Avoid": 0.19999999999999998,
+    "LV": 2,
+    "EXP": 250,
+    "Mounted_inventory": {
+        "가슴 보호구_1": {
+            "quantity": 1,
+            "grade": "1"
+        },
+        "머리 보호구_1": {
+            "quantity": 1,
+            "grade": "1"
+        },
+        "다리 보호구_1": {
+            "quantity": 1,
+            "grade": "1"
+        },
+        "발 보호구_1": {
+            "quantity": 1,
+            "grade": "1"
+        },
+        "손 보호구_1": {
+            "quantity": 1,
+            "grade": "1"
+        }
+    },
+    "Available_inventory": {
+        "손 보호구_2": {
+            "quantity": 1,
+            "grade": "2"
+        },
+        "회복물약_2": {
+            "quantity": 5,
+            "grade": "2"
+        },
+        "회복물약_3": {
+            "quantity": 2,
+            "grade": "3"
+        },
+        "공격력 증가 물약_1": {
+            "quantity": 10,
+            "grade": "1"
+        },
+        "방어력 증가 물약_1": {
+            "quantity": 10,
+            "grade": "1"
+        }
+    }
+}
